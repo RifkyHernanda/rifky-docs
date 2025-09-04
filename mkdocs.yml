@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Rifky Docs
-site_url: https://rifky.dev
+site_url: https://rifkyhernanda.github.io/rifky-docs
 theme:
   name: material
 
