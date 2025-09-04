@@ -1,0 +1,5 @@
+site_name: Rifky Docs
+site_url: https://rifky.dev
+theme:
+  name: material
+
