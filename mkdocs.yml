@@ -20,8 +20,8 @@ theme:
     - toc.integrate
     - navigation.top
     - navigation.footer
-  logo: assets\comet.png
-  favicon: assets\comet.png
+  logo: assets/comet.png
+  favicon: assets/comet.png
   name: material
   palette:
     # Palette toggle for light mode
