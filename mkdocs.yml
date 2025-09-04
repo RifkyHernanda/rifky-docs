@@ -53,5 +53,5 @@ extra:
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
   social:
-    - icon: fontawesome/brands/mastodon 
-      link: https://fosstodon.org/@squidfunk
+    - icon: docs\assets\linkedin.png
+      link: https://www.linkedin.com/in/rifky-hernanda-4842a5206
